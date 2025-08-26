@@ -116,11 +116,11 @@ Sample Extent Report
 <img width="959" height="385" alt="image" src="https://github.com/user-attachments/assets/5f56e272-088e-47ec-baf1-9c5d7e005258" />
 
 
-✅ Passed Test
+Passed Test
 
-❌ Failed Test with Screenshot
+Failed Test with Screenshot
 
-⚠️ Skipped Test with reason
+Skipped Test with reason
 
 👤 Author
 
